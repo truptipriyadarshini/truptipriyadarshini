@@ -1,16 +1,31 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<div align="center"><img src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif"></div>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="100"/>  I'm <a href=# target="_blank"Trupti Priyadashini</a>. Nice to see you.🤗 </h1>
 
-<!--
-**truptipriyadarshini/truptipriyadarshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=truptipriyadarshini&label=Profile%20views&color=0e75b6&style=flat" alt="truptipriyadarshini" /> </p>
 
-Here are some ideas to get you started:
+<div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h3 align="center">Stars</h3>
+<p align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truptipriyadarshini&langs_count=8&theme=dark" alt=truptipriyadarshini /></p>
+
+<p align="center">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=truptipriyadarshini&show_icons=true&locale=en&theme=dark" alt="truptipriyadarshini" /></p>
+
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=truptipriyadarshini&theme=dark" alt="truptipriyadarshini" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=truptipriyadarshini&theme=nord" alt="truptipriyadarshini" /></a> </p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+[![](https://visitcount.itsvg.in/api?id=truptipriyadarshini&icon=0&color=0)](https://visitcount.itsvg.in)
